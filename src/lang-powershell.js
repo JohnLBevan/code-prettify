@@ -1,4 +1,4 @@
-// Copyright (C) 2013 Google Inc.
+ï»¿// Copyright (C) 2013 Google Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@
  * powershell grammar lexical grammar.
  *
  * @author mgetz@leetsoftwerx.com
- * @author John	L Bevan [at] gmail [dot] com
+ * @author JohnLBevan+GitHubGoogleCodePrettify@gmail.com (John Bevan)
  */
  /*
 	Will remove / tidy this comment before making a pull request; just here to help anyone browsing this code now.
@@ -36,6 +36,8 @@
 	The original code said only delimited comments had issues, but it looks like there's more than that.
 	Need to check on expectations / rules for invalid code; i.e. can we assume code will always be valid
 	or do we need to consider invalid scenarios such as text following @" on the same line / that kind of thing?
+	
+	Contributions should follow Google's JS Style Guide: https://google.github.io/styleguide/jsguide.html
 	
  */
  

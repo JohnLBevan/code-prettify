@@ -75,6 +75,7 @@ Other languages are supported via extensions:
 [Mumps](src/lang-mumps.js);
 [Nemerle](src/lang-n.js);
 [Pascal](src/lang-pascal.js);
+[Powershell](src/lang-powershell.js);
 [Protocol buffers](src/lang-proto.js);
 [R, S](src/lang-r.js);
 [RD](src/lang-rd.js);
